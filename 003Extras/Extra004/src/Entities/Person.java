@@ -1,6 +1,6 @@
 package Entities;
 
-public class Person {
+public abstract class Person {
 
     protected String nombre;
     protected String apellido;

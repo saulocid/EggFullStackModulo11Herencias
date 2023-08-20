@@ -2,7 +2,7 @@ package Entities;
 
 import java.util.Calendar;
 
-public class Employee extends Person {
+public abstract class Employee extends Person {
 
     protected Calendar ingreso;
     protected Integer despacho;
